@@ -1,0 +1,145 @@
+{
+    "_args": [
+        [{
+                "raw": "react-native-snap-carousel-v1@2.2.2",
+                "scope": null,
+                "escapedName": "react-native-snap-carousel-v1",
+                "name": "react-native-snap-carousel-v1",
+                "rawSpec": "2.2.2",
+                "spec": "2.2.2",
+                "type": "version"
+            },
+            "d:\\USEABCV2\\SourceCode\\YSApp"
+        ],
+        [{
+                "raw": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+                "scope": null,
+                "escapedName": null,
+                "name": null,
+                "rawSpec": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+                "spec": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+                "type": "hosted",
+                "hosted": {
+                    "type": "github",
+                    "ssh": "git@github.com:murzhang/react-native-snap-carousel-v1.git",
+                    "sshUrl": "git+ssh://git@github.com/murzhang/react-native-snap-carousel-v1.git",
+                    "httpsUrl": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+                    "gitUrl": "git://github.com/murzhang/react-native-snap-carousel-v1.git",
+                    "shortcut": "github:murzhang/react-native-snap-carousel-v1",
+                    "directUrl": "https://raw.githubusercontent.com/murzhang/react-native-snap-carousel-v1/master/package.json"
+                }
+            },
+            "D:\\useabcv2\\SourceCode\\SMApp"
+        ]
+    ],
+    "_cnpm_publish_time": 1497219344199,
+    "_from": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+    "_id": "react-native-snap-carousel-v1@2.2.2",
+    "_inCache": true,
+    "_location": "/react-native-snap-carousel-v1",
+    "_nodeVersion": "8.0.0",
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/react-native-snap-carousel-v1-2.2.2.tgz_1497219343089_0.471668932819739"
+    },
+    "_npmUser": {
+        "name": "bd-arc",
+        "email": "bdelmaire@archriss.com"
+    },
+    "_npmVersion": "5.0.3",
+    "_phantomChildren": {},
+    "_requested": {
+        "raw": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+        "spec": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+        "type": "hosted",
+        "hosted": {
+            "type": "github",
+            "ssh": "git@github.com:murzhang/react-native-snap-carousel-v1.git",
+            "sshUrl": "git+ssh://git@github.com/murzhang/react-native-snap-carousel-v1.git",
+            "httpsUrl": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+            "gitUrl": "git://github.com/murzhang/react-native-snap-carousel-v1.git",
+            "shortcut": "github:murzhang/react-native-snap-carousel-v1",
+            "directUrl": "https://raw.githubusercontent.com/murzhang/react-native-snap-carousel-v1/master/package.json"
+        }
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git#6d8723608b0408bd1e38a3e5de096e1e7eb38ede",
+    "_shasum": "fcdfaaf54e2c4268dd994361dee497c3afd726cb",
+    "_shrinkwrap": null,
+    "_spec": "git+https://github.com/murzhang/react-native-snap-carousel-v1.git",
+    "_where": "D:\\useabcv2\\SourceCode\\SMApp",
+    "author": {
+        "name": "Archriss"
+    },
+    "dependencies": {
+        "lodash.debounce": "4.0.8",
+        "lodash.throttle": "4.1.1",
+        "react-addons-shallow-compare": "15.5.2"
+    },
+    "description": "Swiper component for React Native with previews and snapping effect. Compatible with Android & iOS.",
+    "devDependencies": {
+        "babel-eslint": "^7.2.3",
+        "eslint": "^3.19.0",
+        "eslint-config-standard": "^10.2.1",
+        "eslint-config-standard-react": "^5.0.0",
+        "eslint-plugin-import": "^2.3.0",
+        "eslint-plugin-node": "^5.0.0",
+        "eslint-plugin-promise": "^3.5.0",
+        "eslint-plugin-react": "^7.0.1",
+        "eslint-plugin-standard": "^3.0.1"
+    },
+    "directories": {},
+    "dist": {
+        "shasum": "2da5a205b79af142daf2eb988fe0b46fb92c5674",
+        "size": 25480,
+        "noattachment": false,
+        "tarball": "http://registry.npm.taobao.org/react-native-snap-carousel-v1/download/react-native-snap-carousel-v1-2.2.2.tgz"
+    },
+    "gitHead": "3d3da1765b401334b9551a786ae1386a9a1c3897",
+    "keywords": [
+        "react",
+        "native",
+        "carousel",
+        "slider",
+        "swiper",
+        "items",
+        "snap",
+        "android",
+        "ios",
+        "simple",
+        "snapping",
+        "component",
+        "rtl"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "maintainers": [{
+            "name": "bd-arc",
+            "email": "bdelmaire@archriss.com"
+        },
+        {
+            "name": "exilz",
+            "email": "m.bertonnier@gmail.com"
+        }
+    ],
+    "name": "react-native-snap-carousel-v1",
+    "optionalDependencies": {},
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*"
+    },
+    "publish_time": 1497219344199,
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "github.com/archriss/react-native-snap-carousel-v1"
+    },
+    "version": "2.2.2"
+}
